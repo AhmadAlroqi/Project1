@@ -1,5 +1,5 @@
-RA = 0
-RB =                  1
+RC = 7
+RB =                  7
 RO =                      RA
 RB =                     RA + RB
 JC = 7
